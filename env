@@ -1,0 +1,36 @@
+/ ｕｓｅ ｍｙ ｖａｒｉａｂｌｅｓ ｗｈｅｎ ｅｖｅｒ ｙｏｕ ｗａｎｔ ｔｏ ｄｅｐｌｏｙ ｔｅｃｈｓｙｎｃ ｂｏｔ.
+
+
+SESSION_ID="Techsync~SmoBnSZb#1OMHQXLckgYIwCEZUio9NZIa33W1QUiL4ONAzFDcsEQ"
+
+AUTO_READ_STATUS=ｔｒｕｅ
+
+STATUS_READ_MSG="*Ｓｔａｔｕｓ Ｓｅｅｎ Ｂｙ Ｔｅｃｈｓｙｎｃ 👻*"
+
+AUTO_STATUS_REPLY=ｆａｌｓｅ
+
+AUTO_REJECT_CALLS=ｆａｌｓｅ
+
+MODE="ｐｕｂｌｉｃ
+
+WELCOME=ｆａｌｓｅ
+
+AUTO_READ_MESSAGES=ｆａｌｓｅ
+
+AUTO_TYPING=ｆａｌｓｅ
+
+OWNER_NAME=Ｍｖｅｌａｓｅ Ｔｅｃｈｎｏｌｏｇｙ
+
+OWNER_NUMBER="263717777643"
+
+AUTO_RECORDING=ｆａｌｓｅ
+
+ALWAYS_ONLINE=ｆａｌｓｅ
+
+AUTO_BLOCK=ｔｒｕｅ
+
+AUTO_REACT=ｆａｌｓｅ
+
+PREFIX= ".,~,!,?,&,/,#",
+
+ [ｃｈｏｏｓｅ ｏｎ ｏｆ ｔｈｅ ａｂｏｖｅ ｐｒｅｆｉｘｓ ｆｏｒ ｙｏｕｒ ｂｏｔ]

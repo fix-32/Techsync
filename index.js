@@ -102,7 +102,7 @@ console.log("Session downloaded Successfully ✅")
   connectToWA()
   }
   } else if (connection === 'open') {
-  console.log('Installing Techsync Plugins)
+  console.log('Installing Techsync Plugins')
   const path = require('path');
   fs.readdirSync("./Techsync/plugins/").forEach((plugin) => {
   if (path.extname(plugin).toLowerCase() == ".js") {

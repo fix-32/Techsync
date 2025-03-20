@@ -67,7 +67,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/mvelase-ofc/Techsync;
+    const githubRepoURL = 'https://github.com/mvelase-ofc/Techsync';
 
     try {
         // Extract username and repo name from the URL

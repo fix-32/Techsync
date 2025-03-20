@@ -1,12 +1,12 @@
 {
-  "name": "malvin",
+  "name": "Techsync",
   "version": "3.0.0",
-  "description": "A WhatsApp Bot Created By Malvin King",
+  "description": "a whatsApp bot created by mvelase technology",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name malvin",
-    "stop": "pm2 stop malvin",
-    "restart": "pm2 restart malvin"
+    "start": "pm2 start index.js --deep-monitoring --attach --name Techsync",
+    "stop": "pm2 stop Techsync",
+    "restart": "pm2 restart Techsync"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "6.6.0",

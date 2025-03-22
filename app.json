@@ -156,14 +156,14 @@
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": true,
-      "value": "true"
+      "required": false,
+      "value": "false"
       
     }, 
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": true,
+      "required": false,
       "value": "☠️,⏳️,⚡️,🚀,🤖,🌏,🌟,💫,🎭,🗿,🔰,⚠️",
     }, 
     

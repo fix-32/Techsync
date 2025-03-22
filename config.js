@@ -21,7 +21,7 @@ BOT_NAME: process.env.BOT_NAME || "ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ",
 
 STICKER_NAME: process.env.STICKER_NAME || "ᴛᴇᴄʜsʏɴᴄ-ᴍᴅ",
  
-CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
+CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "☠️,⏳️,⚡️,🚀,🤖,🌏,🌟,💫,🎭,🗿,🔰,⚠️",
 
@@ -57,7 +57,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
  
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 
-AUTO_TYPING: process.env.AUTO_TYPING || "false",
+AUTO_TYPING: process.env.AUTO_TYPING || "true",
    
 READ_CMD: process.env.READ_CMD || "false",
  
